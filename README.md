@@ -1,5 +1,6 @@
 # primer_git
 primer git lol XD
 
-'''PHP
+'''JSON
 <?php echo "esto es solo una practica de git";?>
+'''
